@@ -1,0 +1,39 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="exoffers.ml" resolutions="1x" timestamp="1549178796846">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="500526" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="56f49e7e-5e0c-4c14-a1e4-4393947c321a.png" crc="3919831409" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1coe0qr4p1q6m14rktm41kfs62q3-u179.png" crc="469257355" ref="index"/>
+    <file name="p1d2dbiikro681ie3oap1qa21mrv3.jpg" crc="4290323000" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u85-4.png" crc="277112139" ref="index"/>
+    <file name="u83-4.png" crc="4118025524" ref="index"/>
+    <file name="p1coe0uqk0dq11k3gfr5funur3.jpg" crc="4015196280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1d1rcmhtdlsghtl1uir1h2l4et3.jpg" crc="198779971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1d171kq3712k9af717c8fi7hor3.jpg" crc="109487676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1d1rckm9v11sm1rr9di1jr11qnr3.jpg" crc="226083354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3864685584" seo="true" mt="1549174838864" redirect="true"/>
+</manifest>
